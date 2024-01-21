@@ -1,0 +1,2 @@
+twitch-dl==2.1.4
+chat-downloader==0.2.8
